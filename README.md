@@ -9,7 +9,7 @@ Skills: <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the
 
 ### Hi there 👋
  
-I am Rajan Panchal,  working as a Software Developer :computer: at Accenture! I specialize in Java technologies like Spring, J2EE. I am also an Amazon Web Services enthusiast. 3X AWS certified. I develop side projects/developer articles in my free time. I blog at https://rajanpanchal.net. 
+I am Rajan Panchal,  working as a Software Developer :computer: at Accenture! I specialize in Java technologies like Spring, J2EE. I am also an Amazon Web Services enthusiast. 3X AWS certified. I exlpore technologies, develop side projects/developer articles in my free time. I blog at https://rajanpanchal.net. 
 
  :link: Get in Touch:  <a href="https://www.linkedin.com/in/rajan-panchal"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/PanchalRajan"><img src="https://img.shields.io/badge/PanchalRajan%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
