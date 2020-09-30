@@ -17,3 +17,4 @@ I am Rajan Panchal,  working as a Software Developer :computer: at Accenture! I 
 
  
  
+![Visitor Count](https://profile-counter.glitch.me/{rajanpanchal}/count.svg)
