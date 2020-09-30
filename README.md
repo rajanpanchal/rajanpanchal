@@ -4,6 +4,7 @@ Skills: <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=black"/>
 <img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=black"/>
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL%20-%23oracle.svg?&style=for-the-badge&logo=oracle&logoColor=red"/>
 
 
 
